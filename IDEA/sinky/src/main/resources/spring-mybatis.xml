@@ -6,6 +6,6 @@
         <typeAlias alias="User" type="org.test.po.UserInfo"/>
     </typeAliases>
     <mappers>
-        <mapper resource="org/test/dao/UserMapper.xml" />
+        <mapper resource="mappers/UserMapper.xml" />
     </mappers>
 </configuration>

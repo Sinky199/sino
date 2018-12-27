@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="sinky:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="sinky.war">
-      <element id="artifact" artifact-name="sinky:war exploded" />
-    </root>
-  </artifact>
-</component>
