@@ -170,6 +170,21 @@
       <scope>provided</scope>
     </dependency>
 
+    <!-- c3p0 -->
+    <dependency>
+      <groupId>com.mchange</groupId>
+      <artifactId>mchange-commons-java</artifactId>
+      <version>0.9.2.1</version>
+    </dependency>
+    <dependency>
+      <groupId>c3p0</groupId>
+      <artifactId>c3p0</artifactId>
+      <version>0.9.1.2</version>
+    </dependency>
+
+    <!-- c3p0 end -->
+
+
 
     <dependency>
       <groupId>javax</groupId>
